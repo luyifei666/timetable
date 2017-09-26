@@ -1,0 +1,20 @@
+body{
+	background: #fff3ee;
+	text-align: center;
+	min-width: 530px;
+}
+h4{
+	margin-top: 70px;
+}
+.timetable{
+	margin:auto;
+	width:490px;
+	border-collapse: collapse;
+}
+.timetable th, td{
+	width: 70px;
+	height: 40px;
+}
+.timetable,th,td{
+	border: 1px solid black;
+}
